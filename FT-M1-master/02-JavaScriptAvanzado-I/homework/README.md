@@ -6,7 +6,7 @@
 Determiná que será impreso en la consola, sin ejecutar el código.
 
 > Investiga cuál es la diferencia entre declarar una variable con `var` y directamente asignarle un valor.
-
+var kalethabh = 0;
 ```javascript
 x = 1;
 var a = 5;
